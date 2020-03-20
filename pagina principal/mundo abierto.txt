@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body background="modern-warfare-3.gif" bgcolor=¨#000000¨ text=¨#FEFFFF¨>
+
+<title>CATEGORIA DE MUNDO ABIERTO</title>
+<a id="arriba"></a>
+<center>
+<font size=16 color="white"
+face="comic">CATEGORIA DE MUDO ABIERTO</font>
+</br>
+
+juegos famosos como <a href="#primero">Far Cry 5</a> , uno de los mejores juegos de accion multijugador con un gran toque de zombies <a
+href="#segundo">,Counter-Strike: Global Offensive </a>tambien tendras acceso a juegos exclusivos como, <a href="#tercero">DOTA 2,</a>
+
+<a id="primero"><h1>Far Cry 5</h1></a>
+<img src="mundoabierto.JPG"aling="middle"height="25%"width="25%">
+<br>El juego se desarrolla en el condado ficticio de Hope, Montana,
+ <br>donde un predicador llamado Joseph Seed ha logrado prominencia 
+<br>en la región. Seed cree que ha sido elegido para proteger a la
+ <br>gente del condado de un "colapso inevitable" y ha establecido
+<br>una congregación llamada La Puerta de Edén. En realidad, Seed
+ <br>es un predicador radical y La Puerta del Edén es un culto militar 
+<br>del juicio final. Bajo su gobierno, el culto ha intentado convertir
+ <br>a los residentes del condado de Hope y los ha amenazado para evitar
+ <br>que pidan ayuda al gobierno federal. Cuando un intento de detener 
+<br>a Seed resulta en la muerte de varios oficiales de la ley, el jugador
+ <br>es arrastrado al conflicto armado entre La Puerta de Edén
+<br><br>
+<br><center><button style="font-size:24px">comprar $1400<i class0"fabb=fa-steam"></i></comprar></center></br>
+<font color="white">
+volver<a href="#arriba">arriba</a>
+
+<a id="segundo"><h1>Tom Clancy's Ghost Recon</h1></a>
+ <img src="mundoabierto2.jpg"align="middle"height="100%"whidth="100%"></br>
+<br>Tom Clancy's Ghost Recon (En latín Tom Clancy Reconocimiento Fantasma)
+ <br>es una serie de videojuegos de acción tácticos desarrollados por la
+ <br>empresa Red Storm Entertainment y Ubisoft, creados por el escritor 
+<br>norteamericano Tom Clancy. Ubisoft publicó el primer videojuego de la
+ <br>serie en el año 2001. Desde entonces, Ghost Recon se ha 
+<br>convertido en todo un éxito.
+<br>En este videojuego, los personajes jugables son miembros
+ <br>de un escuadrón de élite estadounidense conformado por 
+<br>las Fuerzas Especiales del Ejército de los Estados Unidos, la Delta Force y los SEAL.
+<br><center><button style="font-size:24px">comprar $1200<i
+ class0"fabb=fa-steam"></i></comprar></center></br>
+<font color="white">
+<br><br>
+volver<a href="#arriba">arriba</a>
+
+<a id="tercero"><h1>DOTA 2:</h1></a>
+<img src="mundoabierto3.webp"align="middle"height="25%"width="25%">
+
+<br>No Man's Sky es un videojuego desarrollado y publicado por Hello 
+<br>Games para PlayStation 4, Xbox One y Microsoft Windows. Este juego presenta
+ <br>un mundo abierto generado por procedimientos.1​2​3​ El videojuego fue 
+<br>lanzado en agosto de 2016 en las plataformas PlayStation 4 y Microsoft Windows.4​5​ 
+<br>Fue lanzado en la consola Xbox One el 24 de julio de 2018, junto con la actualización NEXT.6​
+<br>Anunciado en el VGX 2013 junto a su tráiler, el videojuego mostró 
+<br>exploración planetaria, océanos profundos y posibles depredadores en
+ <br>los diversos planetas generados.7​8​
+<br><br>
+<br><center><button style="font-size:24px">comprar $100<i class0"fabb=fa-steam"></i></comprar></center></br>
+<font color="white">
+volver<a href="#arriba">arriba</a>
+<script language="JavaScript"> 
+ var estado=true;  setTimeout("ver()",450); 
+ function ver (){  estado=!estado;  if(estado==true)
+  texto1.style.visibility="visible"; 
+ else  texto1.style.visibility="hidden"; 
+ setTimeout("ver()",450);  } 
+ </script><p align="center" id="texto1"  
+style="visibility:visible"><font face="Arial, 
+Helvetica,  sans-serif size="3">SORTE DE TARGETAS DE REGALO GRATIS!!!</font></p>
+<STYLE type="text/css">
+<!--
+A:link {COLOR: red; TEXT-DECORATION: none}
+A:visited {COLOR: gray; TEXT-DECORATION: none}
+A:active {TEXT-DECORATION: none}
+A:hover {COLOR: blue; TEXT-DECORATION: underline} -->
+</STYLE>
+</p>
+<input type="button" value="categoria de accion " onclick="window.open('https://www.malavida.com/es/windows/cat/juegos#gref')" />
+<p>
+<script language="JavaScript"><!--
+function escribe(frase){document.desplaza.cuadro.value=frase; }
+// --></script>
+</p>
+<table border="0">
+<tr>
+<td width="200"><p align="center"><strong>Opciones.</strong></p><p><a href="file:///C:/Users/erick/OneDrive/Escritorio/proyecto11.html"
+onmouseover="escribe(' PAGINA PRINCIPAL\n ----------------\n\n Cuando hagas Click en este enlace irás directamente a la página de inicio de mi web');">PAGINA
+PRINCIPAL</a><br>
+<a href="http://www.suweb.net/users/pauluk/trucosprin.htm"
+onmouseover="escribe('CATEGORIA DE VIDEOJUEGOS\n -----------\n\n Este enlace te llevará a la categoria de videojuegos en donde puedes escoger juegos con mas facilidad');">CATEGORIA DE VIDEOJUEGOS</a><br>
+<a href="http://www.suweb.net/users/pauluk/FORMAS DE PAGO.HTM"
+onmouseover="escribe(' FORMAS DE PAGO\n -------------- \n\n Este enlace te llevara a las formas de pago, haci como una guia rapida para utilizar tergetas de credito con seguridad ');">FORMAS DE PAGO</a><br>
+</p>
+</td>
+<td><form name="desplaza">
+<p><textarea name="cuadro" rows="8" cols="30"
+wrap="physical"></textarea></p>
+</form>
+</td>
+</tr>
+</table>
+</center>

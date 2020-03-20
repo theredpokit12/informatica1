@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>CATEGORIA DE MULTIJUGADOR</title>
+<body background="imagenfondo.png">
+
+<br>
+<center>
+<font size=16 color="yellow"
+face="comic">CATEGORIA DE MULTIJUGADOR</font>
+</br>
+
+<br><font color="orange" face="Cooper Black"> EN ESTA CATEGORIA ENCONTRARAS LOS JUEGOS MULTIJUGADOR MAS RECONOCIDOS COMO LO SON:</font></br>
+
+<font color="red">
+<br><h2>CALL OF DUTY MODERN WARFARE</h2></br>
+<font color="blue">
+<h3><br>Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico,</br> 
+<br>creada por Ben Chichoski, desarrollada principal e inicialmente por Infinity Ward, y distribuida por Activision</h3>.</font></br>
+<center><img src="imagen1.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $1,300 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>FORNITE PASE DE BATALLA</h2></br>
+<font color="blue">
+<h3><br>Fortnite es un videojuego del año 2017 desarrollado por la empresa Epic Games, lanzado como</br> 
+diferentes paquetes de software que presentan diferentes modos de juego</h3></br>
+<center><img src="imagen2.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $299 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>GTA V</h2></br>
+<font color="blue">
+<h3><br>Grand Theft Auto V es un videojuego de acción-aventura de mundo abierto desarrollado por el estudio Rockstar North y</br> 
+distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas PlayStation 3 y Xbox 360.</h3>
+<center><img src="imagen3.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $800 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>LEAGUE OF LEGENDS SKINS</h2></br>
+<font color="blue">
+<h3><br>League of Legends es un videojuego del género multijugador de arena de batalla en línea y</br> 
+deporte electrónico el cual fue desarrollado por Riot Games para Microsoft Windows y OS X.</h3>
+<center><img src="imagen4.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $500 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>MINECRAFT</h2></br>
+<font color="blue">
+<h3><br>Diseñadores: Markus Persson, Jens Bergensten, Stephen McManus
+Programadores: Mojang AB, Telltale Games, Xbox Game Studios, 4J Studios, Other Ocean Interactive, Double Eleven</br>
+Distribuidores: Mojang AB, Telltale Games, Xbox Game Studios, Sony Interactive Entertainment</h3>
+<center><img src="imagen5.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $280 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>PUBG</h2></br>
+<font color="blue">
+<h3><br>Playerunknown's Battlegrounds es un videojuego de batalla en línea multijugador masivo desarrollado por Brendan Greene y</br> 
+publicado por Bluehole para Microsoft Windows, Xbox One, PlayStation 4, Android e iOS.</h3>
+<center><img src="imagen6.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $400 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>HALO MASTER CHIEF COLLECTION</h2></br>
+<font color="blue">
+<h3><br>Halo es una franquicia de videojuegos de ciencia ficción creada y desarrollada por Bungie Studios hasta Halo: Reach,</br> 
+y gestionada ahora por 343 Industries, propiedad de Microsoft Studios.</h3>
+<center><img src="imagen7.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $1600 <i class='fab fa-steam'></i></comprar></center>
+
+<font  color="red">
+<br><h2>OVERWATCH 2</h2></br>
+<font color="blue">
+<p><h3><br>Overwatch es un videojuego de disparos en primera persona multijugador, desarrollado por Blizzard Entertainment.</br> 
+Fue lanzado al público el 24 de mayo del 2016, para las plataformas PlayStation 4, Xbox One, Microsoft Windows y Nintendo Switch.​</h3></p>
+<center><img src="imagen8.jfif"width=400"></center>
+<center><button style='font-size:24px'>COMPRAR $1099 <i class='fab fa-steam'></i></comprar></center>
+
+</center>
+
+
+
+
+</font>
+</html>
